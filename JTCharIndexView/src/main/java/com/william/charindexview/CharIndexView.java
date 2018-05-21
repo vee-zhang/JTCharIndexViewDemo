@@ -12,15 +12,6 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-/**
- * All rights Reserved, Designed By www.rongdasoft.com
- * @version V1.0
- * @Title: CharIndexView
- * @Description:
- * @author: william
- * @date: 2018.01.08
- */
-
 public class CharIndexView extends View {
 
     private static final int INDEX_NONE = -1;
