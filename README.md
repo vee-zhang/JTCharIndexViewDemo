@@ -1,4 +1,4 @@
-# JTCharIndexView [![jCenter](https://img.shields.io/badge/jCenter-1.1.0-green.svg)](https://bintray.com/william198824/maven/JTCharIndexView/_latestVersion)  [![License](https://img.shields.io/badge/License-Apache--2.0%20-blue.svg)](./LICENSE)
+# JTCharIndexView [ ![Download](https://api.bintray.com/packages/william198824/maven/JTCharIndexView/images/download.svg) ](https://bintray.com/william198824/maven/JTCharIndexView/_latestVersion)  [![License](https://img.shields.io/badge/License-Apache--2.0%20-blue.svg)](./LICENSE)
 
 
 ## 一个超轻量级，通讯录音序列表。
